@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"gh repo view forrestIsRunning/obsidian-sync-agent --json visibility,topics,description 2>&1\",\"description\":\"Verify public status and topics\"}",
-  "error": "Exit code 1\nUnknown JSON field: \"topics\"\nAvailable fields:\n  archivedAt\n  assignableUsers\n  codeOfConduct\n  contactLinks\n  createdAt\n  defaultBranchRef\n  deleteBranchOnMerge\n  description\n  diskUsage\n  forkCount\n  fundingLinks\n  hasDiscussionsEnabled\n  hasIssuesEnabled\n  hasProjectsEnabled\n  hasWikiEnabled\n  homepageUrl\n  id\n  isArchived\n  isBlankIssuesEnabled\n  isEmpty\n  isFork\n  isInOrganization\n  isMirror\n  isPrivate\n  isSecurityPolicyEnabled\n  isTemplate\n  isUserConfigurationRepository\n  iss...",
-  "timestamp": "2026-05-04T04:06:44.353Z",
-  "retry_count": 4
-}
